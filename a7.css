@@ -1,0 +1,71 @@
+
+.main{
+    
+    background-color: rgb(255, 60, 0);
+}
+.h1{
+    color: white;
+    padding-top: 100px;
+    font-size: 60px;
+}
+.fa-signal{
+    font-size: 150px;
+    color: orangered;
+    right: 250px;
+}
+
+.fa-earth-asia{
+    font-size: 160px;
+    color: orangered;
+    position: relative;
+    top: 40px;
+    left: 25px;
+}
+.fa-power-off{
+    font-size: 40px;
+    color: orangered;
+}
+.fa-heart{
+    font-size: 60px;
+    color: orangered;
+
+}
+.fa-heart:hover{
+    background-color:orangered;
+    color : black;
+    transition: 1s;
+}
+.fa-briefcase{
+    font-size: 40px;
+    color: orangered;
+}
+.fa-leaf{
+font-size: 40px;
+    color: orangered;
+}
+.fa-sun{
+font-size: 40px;
+    color: orangered;
+}
+.fa-wrench{
+    font-size: 40px;
+    color: orangered;
+}
+.footer{
+    background-color: rgb(228, 227, 227);
+}
+.l{
+    font-family: 'Merriweather', serif; width:400px ;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    margin-left: 40%;
+    background-color: transparent;
+    border-color:orangered;
+    border-radius: 90%;
+    transition-duration: 1s;
+}
+.l:hover{
+    background-color:black;
+    color : orangered
+}
